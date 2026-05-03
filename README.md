@@ -14,7 +14,7 @@
 
 ---
 
-## 🔹 HPC3 – CUDA Vector Addition
+## 🔹 HPC3 – CUDA SUM, MAX, MIN
 
 ![HPC3 Output](images/hpc3.png)
 
