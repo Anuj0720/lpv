@@ -69,7 +69,7 @@ void merge(vector<int>& arr, int s, int m, int e) {
     while (i < L.size() && j < R.size()) {
         if (L[i] <= R[j]) {
             arr[k++] = L[i++];
-        } else {w
+        } else {
             arr[k++] = R[j++];
         }
     }
