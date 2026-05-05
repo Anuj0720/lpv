@@ -14,11 +14,6 @@
 
 ---
 
-## 🔹 HPC3 – CUDA SUM, MAX, MIN (Cuda)
-
-![HPC3 Output](images/hpc3(cuda).png)
-
-
 ## 🔹 HPC3 – CUDA SUM, MAX, MIN (Parallel Reduction)
 
 ![HPC3 Output](images/hpc3(parallel_reduction).png)
